@@ -1,6 +1,4 @@
-# CornerGUI
-CornerGUI
-
+# Pocket Campus
 Here is the full application of Pocket Campus developed by:
 Kyle Akers, Drew Dabe, Zechariah Fisher-Coleman, Vigneswaran Chinnasami, and Isaac Mayernik.
 
